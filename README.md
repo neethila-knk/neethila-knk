@@ -1,9 +1,12 @@
 <p align="center">
+  <img src="[https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw2LqNQtQaMRbWnhtljzkm61&ust=1751401747046000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiyqZL-mY4DFQAAAAAdAAAAABAE
+)" alt="developer" width="300"/>
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=800&duration=3000&pause=1000&lines=Hey!+I'm+Neethila!;Full+Stack+Web,+Mobile+%26+Desktop+Apps+Developer,;Software+Engineer+From+Sri+Lanka+🇱🇰" alt="Typing SVG" />
   </a>
 </p>
-
 <h3 align="center">🚀 Turning Ideas Into Scalable Solutions</h3>
 <p align="justify">
   I'm a motivated and self-driven software engineer with strong skills in Full-Stack Web, Desktop, and Mobile application development. Quick 
