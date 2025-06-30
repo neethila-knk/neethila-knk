@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=700&duration=3000&pause=1000&lines=Hey!+I'm+Neethila!;I'm+a+Full+Stack+Developer...;Web,+Mobile+%26+Desktop+Apps;Software+Engineer+%F0%9F%92%BB;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=800&duration=3000&pause=1000&lines=Hey!+I'm+Neethila!;I'm+a+Full+Stack+Web,+Mobile+%26+Desktop+Apps+Developer...;Software+Engineer+From+Sri+Lanka+LK)](https://git.io/typing-svg)
 
 <h3 align="center">🚀 Turning Ideas Into Scalable Solutions</h3>
 <p align="justify">
