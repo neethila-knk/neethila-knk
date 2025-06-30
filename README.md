@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w" alt="developer" width="300" />
+  <img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" alt="developer" width="300" />
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
