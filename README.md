@@ -1,6 +1,10 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="developer" width="300"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=800&duration=3000&pause=1000&lines=Hey!+I'm+Neethila!;I'm+a+Full+Stack+Web,+Mobile+%26+Desktop+Apps+Developer...;Software+Engineer+From+Sri+Lanka+LK" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=800&duration=3000&pause=1000&lines=Hey!+I'm+Neethila!;Full+Stack+Web,+Mobile+%26+Desktop+Apps+Developer,;Software+Engineer+From+Sri+Lanka+🇱🇰" alt="Typing SVG" />
   </a>
 </p>
 
