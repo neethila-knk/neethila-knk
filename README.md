@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Neethila Kumararatne</h1>
-<h3 align="center">🚀 Full Stack Developer | Web, Mobile & Desktop Apps Specialist</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Neethila!;I'm+a+Full+Stack+Developer...;Web,+Mobile+&+Desktop+Apps;Software+Engineer+💻;From+Sri+Lanka+🇱🇰)](https://git.io/typing-svg)
 
+<h3 align="center">🚀 Turning Ideas Into Scalable Solutions</h3>
 <p align="justify">
   I'm a motivated and self-driven software engineer with strong skills in Full-Stack Web, Desktop, and Mobile application development. Quick 
   to adapt and passionate about learning modern technologies, with a focus on building high-quality, user-centered software solutions. 
