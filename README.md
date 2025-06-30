@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm0xYmZoYnBtYzhxdGR3bW8yaXF1c2czNGV4MGx6MzE2YnoxYjd0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="animated gif" width="300" />
-</p>
-
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=800&duration=3000&pause=1000&lines=Hey!+I'm+Neethila!;Full+Stack+Web,+Mobile+%26+Desktop+Apps+Developer,;Software+Engineer+From+Sri+Lanka+🇱🇰" alt="Typing SVG" />
   </a>
