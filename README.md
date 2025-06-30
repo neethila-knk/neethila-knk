@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Neethila Kumararatne</h1>
 <h3 align="center">🚀 Full Stack Developer | Web, Mobile & Desktop Apps Specialist</h3>
 
-<p align="center">
+<p align="justify">
   I'm a motivated and self-driven software engineer with strong skills in Full-Stack Web, Desktop, and Mobile application development. Quick 
   to adapt and passionate about learning modern technologies, with a focus on building high-quality, user-centered software solutions. 
   Recognized for strong communication skills and a practical, solution-oriented mindset, with a commitment to continuous growth. 
@@ -53,16 +53,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neethila-knk&layout=compact&langs_count=8&theme=radical"/>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neethila-knk&theme=radical)
-  
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=neethila-knk&theme=radical&no-frame=true&row=1&column=7)
   
 </div>
 
